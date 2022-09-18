@@ -21,7 +21,10 @@
 
  - Esse projeto tem o objetivo de demonstrar a utilização do framework Expreess e de aprimorar meus conhecimentos em Node.js. Nesse projeto utilizamos a porta 3031 seguindo o padrão de requisição http; Utilizando o postman para testar a aplicação. Rodamos o projeto com o nodemon onde no arquivo package.json no main, foi retirado o arquivo index.js padrão para o caminho "src/servidor.js". Assim iniciamos o projeto com npm start e começou a rodar a aplicação e a testa-lo.Nesse projeto utilizamos o modelo CRUD onde: Deletamos , realizamos o update e utilizamos o método post e get.
  Foi abordado o sistema de Módulos: Require e Exports, Instâncias, o uso do This e do arrow function, passando parâmetros entre módulos, Padrão Middleware e Api com Express.
+ 
+ :movie_camera: Video da Projeto.
   
+https://user-images.githubusercontent.com/82326458/190880280-1c71c9fe-98d4-4878-baef-0739396a6dc4.mp4
 
 
 
